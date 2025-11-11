@@ -23,8 +23,8 @@ The following model checkpoints are publicly available on [HuggingFace](https://
   - [RankLLaMA3 R8 LoRA MLP](https://huggingface.co/AnonymousForReview2/finegrained_checkpoint_experiment_llama3_r8_lora_mlp)
   - [RankLLaMA3 R32 LoRA MHA](https://huggingface.co/AnonymousForReview2/finegrained_checkpoint_experiment_llama3_r32_lora_mha)
 - **RankLLaMA2**  
-  - [RankLLaMA2-7B (via paper)](https://huggingface.co/castorini/rankllama-v1-7b-lora-passage) *(link placeholder)*  
-  - [RankLLaMA2-13B (via paper)](https://huggingface.co/castorini/rankllama-v1-13b-lora-passage) *(link placeholder)*
+  - [RankLLaMA2-7B (via paper)](https://huggingface.co/castorini/rankllama-v1-7b-lora-passage)   
+  - [RankLLaMA2-13B (via paper)](https://huggingface.co/castorini/rankllama-v1-13b-lora-passage) 
 
 - **RankMistral**  
   - [RankMistral](https://huggingface.co/AnonymousForReview2/finegrained_checkpoint_experiment_rankmistral)
